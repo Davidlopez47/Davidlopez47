@@ -1,3 +1,8 @@
+
+<div id = "header" align = "center">
+  <img src = "https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="200"/>
+  <h1 align = "center">  estoy aprendiendo a programar 😀 </h1>
+</div>
 - 👋 Hola me llamo @Davidlopez47
 - 🎮 me interesan los videojuegos y mas cosas 
 - ✍ estudiante de UMET
