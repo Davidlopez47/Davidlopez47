@@ -8,7 +8,8 @@
 - ✍ estudiante de UMET
 - 👨‍💻 estoy apriendiendo programacion
 - 📫 mi correo es  gdavidlopezrj@gmail.com
--
+<a href = "https://www.instagram.com/daviduwi/" > ¡Mi instagram! </a>
+
 
 <!---
 Davidlopez47/Davidlopez47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
