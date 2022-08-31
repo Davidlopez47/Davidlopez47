@@ -19,6 +19,9 @@
 - 📫 mi correo es <a href = "https://mail.google.com/mail/u/0/#inbox" > gdavidlopezrj@gmail.com </a>
 
 - 📷 mi instragram es <a href = "https://www.instagram.com/daviduwi/" > davidlopez </a>
+
+
+-  📳mi twitter es  <a href = "https://twitter.com/David_lopez_47" > davidlopez </a>
     
 🎮 me interesan los videojuegos las series y programar
 
