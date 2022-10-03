@@ -21,9 +21,7 @@
 
 
 -  📳mi twitter es  <a href = "https://twitter.com/David_lopez_47" > davidlopez </a>
-    
-🎮 me interesan los videojuegos las series y programar
-
+   
 
 <!---
 Davidlopez47/Davidlopez47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
