@@ -1,5 +1,5 @@
 <h1 align="center"> hola, yo soy david lopez</h1>
-<h3 align="center">estoy aprendiendo a programar y  python</h3>
+<h3 align="center">estoy aprendiendo a programar </h3>
 
 <h3 align="left">pueden contactarse conmigo atravez de :
 
