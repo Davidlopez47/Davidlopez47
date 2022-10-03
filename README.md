@@ -10,7 +10,7 @@
 - ✍ estudiante de UMET
 
 
-- 👨‍💻 estoy apriendiendo programacion
+- 👨‍💻 estoy apriendiendo python
 
 
 
